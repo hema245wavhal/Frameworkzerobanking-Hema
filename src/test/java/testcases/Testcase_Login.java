@@ -40,7 +40,7 @@ AccountSummaryPage asp;
 	{
 		wp.clickSignInBtn();
 		lp.DoLogin("username", "password");
-		System.out.println("welcome");
+		//System.out.println("welcome");
 		String expected =driver.getTitle();
 		String actual ="Zero - Account Summary";
 		Assert.assertEquals(actual,expected);
