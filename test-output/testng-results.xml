@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18394" started-at="2019-12-01T17:59:18Z" finished-at="2019-12-01T17:59:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18394" started-at="2019-12-01T17:59:18Z" finished-at="2019-12-01T17:59:36Z">
+      <class name="testcases.Testcase_AddPayee">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testcases.Testcase_AddPayee@55f3ddb1]" name="setup" is-config="true" duration-ms="14613" started-at="2019-12-01T17:59:18Z" finished-at="2019-12-01T17:59:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyAddPayee()[pri:0, instance:testcases.Testcase_AddPayee@55f3ddb1]" name="VerifyAddPayee" duration-ms="2454" started-at="2019-12-01T17:59:32Z" finished-at="2019-12-01T17:59:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyAddPayee -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.Testcase_AddPayee@55f3ddb1]" name="tearDown" is-config="true" duration-ms="1210" started-at="2019-12-01T17:59:35Z" finished-at="2019-12-01T17:59:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.Testcase_AddPayee -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
