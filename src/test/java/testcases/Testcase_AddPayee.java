@@ -49,7 +49,7 @@ public class Testcase_AddPayee {
 		
 	
 	
-	@AfterMethod
+	@AfterMethod 
 	public void tearDown()
 	{
 	driver.quit();
